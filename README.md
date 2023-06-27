@@ -1,5 +1,4 @@
-![Math Utility Repo using Maven, JUnit and CI (with GitHub Actions) | © 2023 NhanNQ]
-(https://github.com/NhanNguyen8080/math-util-maven/actions/workflows/math-util-ci.yml/badge.svg)
+[![Math Utility Repo using Maven, JUnit and CI (with GitHub Actions) | © 2023 NhanNQ](https://github.com/NhanNguyen8080/math-util-maven/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/NhanNguyen8080/math-util-maven/actions/workflows/math-util-ci.yml)
 
 # Welcome to Math Utility Repository
 ### You will find it in this repo...
